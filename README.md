@@ -1,4 +1,4 @@
-# assessment-fib
+# Fibonacci Assessment
 
 ## Build Setup
 
