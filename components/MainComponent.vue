@@ -36,7 +36,7 @@
 
 <script>
 import { mapMutations } from "vuex";
-s
+
 export default {
   data() {
     return {
