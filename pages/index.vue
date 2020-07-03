@@ -3,6 +3,7 @@
     <div>
       <h1>Fibonacci Assessment</h1>
       <DisplaySequence />
+      <MainComponent />
     </div>
   </div>
 </template>
