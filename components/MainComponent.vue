@@ -36,7 +36,7 @@
 
 <script>
 import { mapMutations } from "vuex";
-
+s
 export default {
   data() {
     return {
@@ -44,7 +44,6 @@ export default {
       next: "",
       dismissSecs: 1.5,
       dismissCountDown: 0,
-      testerCount: 0,
       status: "Wrong"
     };
   },
