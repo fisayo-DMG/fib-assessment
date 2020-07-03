@@ -1,8 +1,8 @@
 <template>
   <div class='fib' v-if="sequence.length">
     SEQUENCE:
-    <h6 v-bind:key="s * generateRandomID()" v-for="s in sequence">
-      {{s}}
+    <h6 v-bind:key="numbers * generateRandomID()" v-for="numbers in sequence">
+      {{numbers}}
     </h6>
   </div>
 </template>
